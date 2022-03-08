@@ -9,4 +9,6 @@ https://github.com/dexplo/bar_chart_race
 https://www.dexplo.org/bar_chart_race/
 
 
-![nuclear warhead running Barchart](https://user-images.githubusercontent.com/63599968/157005594-7a0b92d0-4426-4334-a0bc-67772558c4f8.gif)
+
+https://user-images.githubusercontent.com/63599968/157165103-1d806c15-4f34-484d-abb6-c1dd204c903a.mp4
+
