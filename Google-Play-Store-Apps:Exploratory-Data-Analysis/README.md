@@ -20,7 +20,16 @@
 
 ## Screenshots
 
+![newplot](https://user-images.githubusercontent.com/63599968/158562539-07859284-5851-459d-b2dd-5c8d09ea73f9.png)
 
+
+![newplot (1)](https://user-images.githubusercontent.com/63599968/158562540-eb283bd0-7116-4aed-854d-60f8980247d4.png)
+
+
+![newplot (2)](https://user-images.githubusercontent.com/63599968/158562556-d1753d5b-81d4-45ca-af59-861288e915fb.png)
+
+
+![newplot (3)](https://user-images.githubusercontent.com/63599968/158562573-cf218c6b-29db-4131-98f8-d63d65fffa46.png)
 
 
 ## Intresting Insights from Data after analysis
