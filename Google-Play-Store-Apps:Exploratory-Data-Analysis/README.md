@@ -1,5 +1,5 @@
 
-# Google Play Store Apps Exploratoty Data Abaklysis
+# Google Play Store Apps Exploratoty Data Analysis
 
 
 
@@ -57,7 +57,7 @@
 
 * Very few app in Comics ,Casino and Music category are zero rated
 
-* Tools App ais installed 10,000,000,000 times
+* Tools App are installed 10,000,000,000 times
 
 * 14 apps in tools category are installed 1,000,000,000 times
 
