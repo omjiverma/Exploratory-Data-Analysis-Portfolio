@@ -92,7 +92,7 @@ plotly
 
 ## Note
 
-File size ic very large so it compress and added as zipped file
+File size is very large so it compress and added as zipped file
 
 File extension is .ipynb
 
